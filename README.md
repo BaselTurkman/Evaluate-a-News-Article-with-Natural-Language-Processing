@@ -20,7 +20,7 @@ This project provides a web-based interface that allows users to evaluate and an
 ### Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/BaselTurkman/NLP-Project
+   git clone https://github.com/BaselTurkman/NLP-Project](https://github.com/BaselTurkman/Evaluate-a-News-Article-with-Natural-Language-Processing.git
    ```
 2. Navigate to the project directory:
    ```bash
